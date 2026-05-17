@@ -1,3 +1,5 @@
+package com.practicum.contacts
+
 data class Contact(
     val name: String, //Имя
     val surname: String? = null, //Отчество
